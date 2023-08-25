@@ -1,12 +1,13 @@
 # ¡Hola! Soy Emerson 👋
-Bienvenido/a a mi perfil de GitHub! Soy un apasionado de la tecnología, con una curiosidad inagotable por aprender y contribuir al mundo de la informática. 
 
+<p style="text-align: center; font-family: cursive; font-size: 14px"> Bienvenido/a a mi perfil de GitHub! Soy un apasionado de la tecnología, con una curiosidad inagotable por aprender y contribuir al mundo de la informática. 
+</p>
 
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EBlanco17&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EBlanco17&theme=dark&show_icons=true" />
 </a>
 <a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EBlanco17&theme=dark&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EBlanco17&theme=dark&layout=compact&langs_count=8&card_width=320&size_weight=0&count_weight=1" />
 </a>
 
 # 💻 IDES utilizados
