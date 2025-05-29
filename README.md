@@ -1,57 +1,127 @@
-# ¡Hola! Soy Emerson 👋
-
-<p style="text-align: center; font-family: cursive; font-size: 14px"> Bienvenido/a a mi perfil de GitHub! Soy un apasionado de la tecnología, con una curiosidad inagotable por aprender y contribuir al mundo de la informática. 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hola%2C+soy+Emerson+Blanco!;Desarrollador+Full-Stack+%F0%9F%92%BB;Fan+del+frontend+%F0%9F%96%A5%EF%B8%8F+y+backend+%F0%9F%94%A5;Bienvenido+a+mi+mundo+de+c%C3%B3digo+%F0%9F%92%80" />
 </p>
 
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=EBlanco17&theme=dark&show_icons=true" />
-</a>
-<a href="">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EBlanco17&theme=dark&layout=compact&langs_count=8&card_width=320&size_weight=0&count_weight=1" />
-</a>
+---
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG5qc2J1ZXR6aGxpdG1hbHNkYnZlcWxuc2doZzRhMGZlYmo0aTR4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SHjOSDkKZ18qOHA5B5/giphy.gif" width="100" />
+  <h1 style="margin: 0;">Sobre mí</h1>
+</div>
 
-# 💻 IDES utilizados
+Soy desarrollador **Full-Stack**, con conocimientos tanto en **frontend** como en **backend**, y experiencia usando varias tecnologías modernas para construir aplicaciones funcionales, limpias y escalables.
 
-![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
-![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white)
+- 🛠️ Actualmente estoy aprendiendo y practicando **Flutter** para desarrollo móvil.  
+- 🚀 Me interesa seguir creciendo en el área de **DevOps**, especialmente con **Azure** y prácticas de **CI/CD**.  
+- 🔁 Siempre estoy en proceso de **reforzar conocimientos y explorar nuevas herramientas**, por eso también estoy activo en plataformas como:
 
-# ⚡ Gestores Base de Datos
+<p align="center">
+  <a href="https://www.freecodecamp.org/eblanco17" target="_blank">
+    <img src="https://img.shields.io/badge/freeCodeCamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=green" alt="freeCodeCamp" />
+  </a>
+  <a href="https://platzi.com/p/e.blanco017/" target="_blank">
+    <img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi" />
+  </a>
+  <a href="https://codigofacilito.com/usuarios/eblanco017" target="_blank">
+    <img src="https://img.shields.io/badge/Código%20Facilito-282828?style=for-the-badge&logoColor=white" alt="Código Facilito" />
+  </a>
+  <a href="https://app.aluracursos.com/user/eblanco017" target="_blank">
+    <img src="https://img.shields.io/badge/Alura-1E4B66?style=for-the-badge&logoColor=white" alt="Alura" />
+  </a>
+</p>
 
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+📌 Siempre en constante aprendizaje e innovación, me gusta mantenerme actualizado y encontrar formas de mejorar tanto el código como los procesos en los que trabajo.
 
-# 🌟 Lenguajes
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+---
 
-# 🏆 Frameworks
+## <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="30" alt="Tech gif"> Tecnologías que uso
 
-![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### 🖥️ Lenguajes
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
+</p>
 
-# 🌐 Diseño web
+### ⚙️ Frameworks y Librerías
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" />
+  <img src="https://skillicons.dev/icons?i=react" alt="React" />
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" />
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" />
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" />
+</p>
 
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 🗃️ Bases de Datos
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />
+</p>
 
-# 🧰 Herramientas
+### ☁️ DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" />
+  <img src="https://skillicons.dev/icons?i=gcp" alt="Google Cloud" />
+</p>
 
-![](https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white)
-![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+### 🧪 Testing & QA
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=selenium" alt="Selenium" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />
+</p>
 
-# 📌 Proyectos
+### 🛠️ Herramientas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" />
+  <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=githubcopilot" alt="GitHub Copilot" />
+</p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBlanco17&repo=Challenge-Oracle-ONE)](https://github.com/EBlanco17/Challenge-Oracle-ONE)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBlanco17&repo=challenge-one-conversor-latam)](https://github.com/EBlanco17/challenge-one-conversor-latam)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBlanco17&repo=challenge-one-alura-hotel-latam)](https://github.com/EBlanco17/challenge-one-alura-hotel-latam)
+### 📊 Datos y Visualización
+<p align="center">
+  <img src="https://cdn.brandfetch.io/idVCtIagXj/w/820/h/820/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1741121152421" alt="Power BI" height="30" />
+  <img src="https://cdn.brandfetch.io/idFdo8ulhr/w/820/h/820/theme/dark/logo.png?c=1bxid64Mup7aczewSAYMX&t=1748368136917" alt="Chart.js" height="30" />
+</p>
+
+
+## <img src="https://media.giphy.com/media/xTk9ZvMnbIiIew7IpW/giphy.gif" width="30"> Estadísticas de GitHub
+
+<table align="center">
+  <tr align="center">
+    <td colspan=2>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=EBlanco17&theme=codeSTACKr&locale=es&short_numbers=true&exclude_days=Sun%2CSat" alt="GitHub Streak" height="200"/>
+    </td>    
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=EBlanco17&theme=codeSTACKr&locale=es&show_icons=true&hide_title=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" height="300" width="450"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EBlanco17&theme=codeSTACKr&locale=es&layout=donut-vertical&langs_count=10&card_width=320&size_weight=0&count_weight=1" height="400" width="450"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="30"> Proyectos destacados
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBlanco17&repo=Challenge-Oracle-ONE&theme=codeSTACKr)](https://github.com/EBlanco17/Challenge-Oracle-ONE)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBlanco17&repo=challenge-one-conversor-latam&theme=codeSTACKr)](https://github.com/EBlanco17/challenge-one-conversor-latam)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBlanco17&repo=challenge-one-alura-hotel-latam&theme=codeSTACKr)](https://github.com/EBlanco17/challenge-one-alura-hotel-latam)
+
+---
+
