@@ -35,8 +35,6 @@ Soy desarrollador **Full-Stack**, con conocimientos tanto en **frontend** como e
 
 ## <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="30" alt="Tech gif"> Tecnologías que uso
 
-## <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="30"> Tecnologías que uso
-
 ### 🖥️ Lenguajes
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cs" alt="C#" />
@@ -125,27 +123,20 @@ Soy desarrollador **Full-Stack**, con conocimientos tanto en **frontend** como e
 </p>
 
 
-
 ## <img src="https://media.giphy.com/media/xTk9ZvMnbIiIew7IpW/giphy.gif" width="30"> Estadísticas de GitHub
 
-<p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=EBlanco17&theme=codeSTACKr&locale=es&short_numbers=true" alt="GitHub Streak"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=EBlanco17&theme=codeSTACKr&locale=es&short_numbers=true" alt="GitHub Streak" />
 </p>
-<p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=EBlanco17&theme=codeSTACKr&locale=es&layout=donut-vertical&langs_count=10&card_width=320&size_weight=0&count_weight=1"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EBlanco17&theme=codeSTACKr&locale=es&show_icons=true&hide_title=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EBlanco17&theme=codeSTACKr&locale=es&layout=compact&langs_count=10&card_width=320&size_weight=0&count_weight=1" alt="Top Langs" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EBlanco17&theme=codeSTACKr&locale=es&show_icons=true&hide_title=true&show=reviews,prs_merged,prs_merged_percentage"/>
-</p>
-
 
 ---
-
 ## <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="30"> Proyectos destacados
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBlanco17&repo=Challenge-Oracle-ONE&theme=codeSTACKr)](https://github.com/EBlanco17/Challenge-Oracle-ONE)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBlanco17&repo=challenge-one-conversor-latam&theme=codeSTACKr)](https://github.com/EBlanco17/challenge-one-conversor-latam)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EBlanco17&repo=challenge-one-alura-hotel-latam&theme=codeSTACKr)](https://github.com/EBlanco17/challenge-one-alura-hotel-latam)
-
----
 
