@@ -4,12 +4,12 @@
 
 ---
 
-<p align="center">
-  <a href="#about">👨‍💻 Sobre mí</a> ●
-  <a href="#technologies">💻 Tecnologías</a> ●
-  <a href="#stats">📊 Estadísticas</a> ●
-  <a href="#projects">🚀 Proyectos</a> ●
-  <a href="#contact">📬 Contacto</a> 
+<p align="center">|
+  <a href="#about">👨‍💻 Sobre mí</a> |
+  <a href="#technologies">💻 Tecnologías</a> |
+  <a href="#stats">📊 Estadísticas</a> |
+  <a href="#projects">🚀 Proyectos</a> |
+  <a href="#contact">📬 Contacto</a> |
 </p>
 
 ---
