@@ -2,12 +2,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=00C9FF&center=true&vCenter=true&width=1000&lines=%F0%9F%91%8B+Hola%2C+soy+Emerson+Blanco!;Desarrollador+Full-Stack+%F0%9F%92%BB;Fan+del+frontend+%F0%9F%96%A5%EF%B8%8F+y+backend+%F0%9F%94%A5;Bienvenido+a+mi+mundo+de+c%C3%B3digo+%F0%9F%92%80" />
 </p>
 
+---
+
 <p align="center">
-  <a href="#about">👤 Sobre mí</a> •
-  <a href="#technologies">💻 Tecnologías</a> •
-  <a href="#stats">📊 Estadísticas</a> •
-  <a href="#projects">🚀 Proyectos</a> •
-  <a href="#contact">📬 Contacto</a>
+  <a href="#about">👨‍💻 Sobre mí</a> ●
+  <a href="#technologies">💻 Tecnologías</a> ●
+  <a href="#stats">📊 Estadísticas</a> ●
+  <a href="#projects">🚀 Proyectos</a> ●
+  <a href="#contact">📬 Contacto</a> 
 </p>
 
 ---
